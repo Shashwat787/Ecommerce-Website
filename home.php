@@ -49,7 +49,7 @@ include 'components/wishlist_cart.php';
          </div>
          <div class="content">
             <span>upto 50% off</span>
-            <h3>latest smartphones</h3>
+            <h3>Latest smartphones</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
