@@ -96,42 +96,42 @@ include 'components/wishlist_cart.php';
 
    <a href="category.php?category=laptop" class="swiper-slide slide">
       <img src="images/icon-1.png" alt="">
-      <h3>laptop</h3>
+      <h3>Laptop</h3>
    </a>
 
    <a href="category.php?category=tv" class="swiper-slide slide">
       <img src="images/icon-2.png" alt="">
-      <h3>tv</h3>
+      <h3>TV</h3>
    </a>
 
    <a href="category.php?category=camera" class="swiper-slide slide">
       <img src="images/icon-3.png" alt="">
-      <h3>camera</h3>
+      <h3>Camera</h3>
    </a>
 
    <a href="category.php?category=mouse" class="swiper-slide slide">
       <img src="images/icon-4.png" alt="">
-      <h3>mouse</h3>
+      <h3>Mouse</h3>
    </a>
 
    <a href="category.php?category=fridge" class="swiper-slide slide">
       <img src="images/icon-5.png" alt="">
-      <h3>fridge</h3>
+      <h3>Fridge</h3>
    </a>
 
    <a href="category.php?category=washing" class="swiper-slide slide">
       <img src="images/icon-6.png" alt="">
-      <h3>washing machine</h3>
+      <h3>Washing Machine</h3>
    </a>
 
    <a href="category.php?category=smartphone" class="swiper-slide slide">
       <img src="images/icon-7.png" alt="">
-      <h3>smartphone</h3>
+      <h3>SmartPhone</h3>
    </a>
 
    <a href="category.php?category=watch" class="swiper-slide slide">
       <img src="images/icon-8.png" alt="">
-      <h3>watch</h3>
+      <h3>Watch</h3>
    </a>
 
    </div>
