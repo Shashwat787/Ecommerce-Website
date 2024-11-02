@@ -10,7 +10,7 @@ This is a **fully functional e-commerce website** built using **PHP**, **CSS**, 
 <img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(26).png?alt=media&token=6343a4c3-559c-4f4c-b214-eb70bc9cfcbf"/>
 <img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(27).png?alt=media&token=23713433-66e9-47b9-b0da-57fc0fd5bcb7"/>
 
-### **Features:**
+## **Features:**
 - **User Registration and Login:** Secure user authentication.
 - **Product Catalog:** Browse products by categories.
 - **Shopping Cart Functionality:** Add and manage items for purchase.
