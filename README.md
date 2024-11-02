@@ -3,12 +3,12 @@
 This is a **fully functional e-commerce website** built using **PHP**, **CSS**, and **JavaScript**. The project features user authentication, product listings, a shopping cart, and a checkout system, providing a seamless shopping experience. The responsive design ensures accessibility across various devices, and the intuitive interface enhances user interaction.
 
 ## Some Images:
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(23).png?alt=media&token=14c4f26d-b1ef-4f79-8bfa-7b005052ed5e"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(25).png?alt=media&token=56abdfa8-ee0a-444e-a7dc-ae6ba0bb1f1f"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(24).png?alt=media&token=59d70111-8870-4495-93e8-815aff5d7e83"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(28).png?alt=media&token=7f1ff4ec-fd93-4134-8c25-2aeebcb3f858"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(26).png?alt=media&token=6343a4c3-559c-4f4c-b214-eb70bc9cfcbf"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(27).png?alt=media&token=23713433-66e9-47b9-b0da-57fc0fd5bcb7"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(37).png?alt=media&token=73fa51e4-f360-4f46-921b-d979cfe3597a"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(38).png?alt=media&token=aced734d-1200-471d-86cf-06b898b781d4"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(39).png?alt=media&token=9ae2a823-f4ac-462d-9068-d6b277b5854a"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(40).png?alt=media&token=e232c624-ba74-46df-9c52-f90cfaaef39d"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(42).png?alt=media&token=e44c6cdb-c19c-4c3b-af23-bb5af7e63db7"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(41).png?alt=media&token=2a5d4c4b-c370-49e1-8f2f-6695ffe7d64a"/>
 
 ## **Features:**
 - **User Registration and Login:** Secure user authentication.
