@@ -17,6 +17,15 @@ This is a **fully functional e-commerce website** built using **PHP**, **CSS**, 
 - **Secure Checkout Process:** Smooth and safe payment handling.
 - **Responsive Design:** Optimized for various devices.
 
+## Technologies Used
+- PHP: A server-side scripting language used for web development.
+- MySQL: A relational database management system for managing data.
+- HTML5 & CSS3: Markup and styling languages for building web pages.
+- JavaScript: A programming language for adding interactivity to web applications.
+- Style-Components: A CSS framework for creating responsive and mobile-first designs.
+- Git: A version control system for tracking changes and collaborating on projects.
+- GitHub Pages: A platform for hosting and deploying web applications.
+
 Feel free to explore the code, contribute, or use it as a reference for your own projects!
 
 ## Download Link
