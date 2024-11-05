@@ -86,6 +86,29 @@ include 'components/wishlist_cart.php';
 
 </div>
 
+<!-- Initialize Swiper with optimized settings -->
+<script>
+   document.addEventListener('DOMContentLoaded', function() {
+      var swiper = new Swiper('.home-slider', {
+         loop: true, // Enable continuous loop mode
+         autoplay: {
+            delay: 3000, // Delay between slides (3 seconds)
+            disableOnInteraction: false, // Prevent autoplay from stopping on user interaction
+         },
+         speed: 1000, // Transition speed (1 second), ensuring smooth transitions
+         pagination: {
+            el: '.swiper-pagination',
+            clickable: true, // Makes pagination bullets clickable
+            renderBullet: function (index, className) {
+               return '<span class="' + className + '"></span>'; // Custom bullet rendering
+            },
+         },
+         slidesPerView: 1, // Show one slide at a time
+         spaceBetween: 30, // Optional: Adjusts space between slides, if needed
+      });
+   });
+</script>
+
 <section class="category">
 
    <h1 class="heading">shop by category</h1>
