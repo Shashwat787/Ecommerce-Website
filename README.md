@@ -26,6 +26,36 @@ This is a **fully functional e-commerce website** built using **PHP**, **CSS**, 
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications.
 
+## How to Download and Run This Project
+
+### Steps to Set Up Locally Using XAMPP:
+
+1. **Download the Code**  
+   - Click the download link given below and download the ZIP file on your computer.
+
+2. **Move the Project to XAMPP Directory**  
+   - Copy the extracted folder to your XAMPP `htdocs` directory (e.g., `C:/xampp/htdocs/`).
+   - Open XAMPP and start APACHE and MYSQL modules.
+
+3. **Import the MySQL Database**  
+   - Open **phpMyAdmin** (`http://localhost/phpmyadmin`) in your browser.
+   - Create a new database (e.g., `shop_db`). #Keep the name same as the database name given in the code.
+   - Import the included SQL file (`shop_db.sql`) into this new database.
+
+4. **Configure the Database Connection**  
+   - Open the project folder and navigate to the file where the database connection is set (e.g., `config.php` or `db_connection.php`).
+   - Update the database credentials if necessary:
+     ```php
+     $host = 'localhost';
+     $user = 'root';
+     $pass = '';
+     $dbname = 'shop_db';
+     ```
+
+5. **Run the Project**  
+   - Open your browser and visit `http://localhost/your-folder-name` to access the website.
+
+
 Feel free to explore the code, contribute, or use it as a reference for your own projects!
 
 ## Download Link
