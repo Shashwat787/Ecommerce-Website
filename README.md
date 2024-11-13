@@ -7,8 +7,8 @@ This is a **fully functional e-commerce website** built using **PHP**, **CSS**, 
 <img width="450px;" src="https://github.com/Shashwat787/project-images/blob/main/Screenshot%20(38).png"/>
 <img width="450px;" src="https://github.com/Shashwat787/project-images/blob/main/Screenshot%20(39).png"/>
 <img width="450px;" src="https://github.com/Shashwat787/project-images/blob/main/Screenshot%20(40).png"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(42).png?alt=media&token=e44c6cdb-c19c-4c3b-af23-bb5af7e63db7"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(41).png?alt=media&token=2a5d4c4b-c370-49e1-8f2f-6695ffe7d64a"/>
+<img width="450px;" src="https://github.com/Shashwat787/project-images/blob/main/Screenshot%20(42).png"/>
+<img width="450px;" src="https://github.com/Shashwat787/project-images/blob/main/Screenshot%20(41).png"/>
 
 ## **Features:**
 - **User Registration and Login:** Secure user authentication.
